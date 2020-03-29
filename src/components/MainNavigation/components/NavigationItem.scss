@@ -1,0 +1,25 @@
+.main-navigation {
+    a {
+        text-decoration: none;
+    }
+
+    &__item {
+        margin-bottom: 21px;
+    }
+
+    &__text {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 22px;
+        /* identical to box height */
+
+
+        color: #FFFFFF;
+    }
+
+    &__icon {
+        margin-right: 7px;
+    }
+
+}
